@@ -1,0 +1,13 @@
+body{
+background-color: darkgrey;
+}
+.titulo{
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.parrafos{
+    background-color: antiquewhite;
+    color: blue;
+}
